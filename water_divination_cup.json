@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:glass_bottle" },
+    { "item": "minecraft:oak_leaves" }
+  ],
+  "result": { "id": "nen:water_divination_cup", "count": 1 }
+}
