@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "nen",
+  "version": "${version}",
+  "name": "Nen - Hunter x Hunter",
+  "description": "Mod de fã inspirado em Hunter x Hunter: descubra seu tipo de Nen e use Ten, Ren, Zetsu e Hatsu.",
+  "authors": ["Você"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.example.nen.NenMod"] },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
